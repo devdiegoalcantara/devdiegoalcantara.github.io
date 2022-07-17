@@ -1,4 +1,4 @@
- # Repositório público do Dev. Diego Alcântara
+# Repositório público do Dev. Diego Alcântara
 
 Material usado durante as minhas aulas, mas que estou organizando aqui em um repositório público para o acesso de todos.
 
